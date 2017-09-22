@@ -1,0 +1,100 @@
+.navbar{
+	border-radius: 0px;
+	background-color: #181818;
+	margin-bottom: 0px;
+}
+footer {
+	position:fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 40px;
+	width: 100%;
+	background-color: #181818;
+	text-align: center;
+	color: #F9F3F3;
+	padding-top: 9px;
+}
+
+/*
+footer {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 40px;
+	width: 100%;
+	background-color: #181818;
+	text-align: center;
+	color: #F9F3F3;
+	padding-top: 9px;
+}
+*/
+about {
+	margin-top: 0px;
+	width: 0vmax;
+}
+#aboutus {
+	width: auto;
+	height: 500px;
+}
+body {
+}
+#login form #log {
+	margin-top: 23px;
+}
+#login form #pass {
+	margin-top: 14px;
+}
+.container .tab-content #login {
+	max-width: 90%;
+	text-align: left;
+	margin-left: 29px;
+}
+#submit {
+	margin-right: 0px;
+	margin-left: 0px;
+	clear: none;
+	float: none;
+	text-align: center;
+	width: 40%;
+}
+#forgot {
+	color: #045AD0;
+	text-align: left;
+	float: right;
+	clear: none;
+	margin-left: -4%;
+	right: 0px;
+	left: 0px;
+	margin-right: 0px;
+}
+#login #form .checkbox {
+	margin-left: 17px;
+	margin-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 723px){
+.home {
+	text-align: center;
+}
+.logo {
+	text-align: left;
+	margin-left: 0px;
+	text-indent: 0px;
+	float: left;
+}
+.signup {
+	text-align: center;
+}
+.login {
+	text-align: center;
+}
+
+}
